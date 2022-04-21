@@ -11,3 +11,6 @@
 - Item On Respawn configurable from config
 ## How To Customize?
 <b> To Customize Check config.yml In plugin_data\resources\config.yml!<b>
+## More Info
+- Report bugs on Issues
+- This plugin support <b>PM4<b>!
