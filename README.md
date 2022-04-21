@@ -1,6 +1,7 @@
 # ItemIntereact
-<b>A plugin for pocketmine which allows to give item to player while they joined!<b>
+<b>A plugin for pocketmine which allows to give item to player while they joined!<b><br>
 [![Poggit](https://poggit.pmmp.io/ci.shield/CosmicNinja018/ItemIntereact/ItemIntereact)](https://poggit.pmmp.io/ci/CosmicNinja018/ItemIntereact/ItemIntereact)
+[![Star](https://img.shields.io/github/stars/CosmicNinja018/ItemIntereact)](https://github.com/CosmicNinja018/ItemIntereact/stargazers)
   
 ## Features
 - HotBarSlot Configurable
