@@ -1,6 +1,6 @@
 name: ItemInteract
 version: 1.0.0
-description: "Plugins allowa to give item on player join!"
+description: "Plugins allows to give item on player join!"
 main: CosmicNinja018\ItemInteract\Main
 api: 4.0.0
 author: CosmicNinja018
