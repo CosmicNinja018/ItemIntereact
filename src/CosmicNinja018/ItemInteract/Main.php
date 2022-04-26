@@ -48,7 +48,6 @@ class Main extends PluginBase implements Listener {
     public function onClick(PlayerInteractEvent $event) {
         $player = $event->getPlayer();
         $item = $player->getInventory()->getItemInHand();
-        if($event->isCancelled()) return;
         if($item->getNamedTag()->hasTag("ItemInteractPlugin"))
             $this->getServer()->getCommandMap()->dispatch($player, $this->getConfig()->get("command"));
     }
